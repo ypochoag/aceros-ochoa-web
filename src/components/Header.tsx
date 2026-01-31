@@ -30,8 +30,13 @@ const Header = () => {
           <a 
             href="#inicio" 
             onClick={(e) => { e.preventDefault(); scrollToSection("#inicio"); }}
-            className="flex items-center gap-2"
+            className="flex items-center gap-3"
           >
+            <img 
+              src="/assets/logo.jpg" 
+              alt="Logo Industrias Aceros Ochoa Guerrero" 
+              className="h-12 md:h-14 w-auto"
+            />
             <div className="flex flex-col">
               <span className="font-heading font-bold text-lg md:text-xl text-foreground leading-tight">
                 INDUSTRIAS ACEROS
