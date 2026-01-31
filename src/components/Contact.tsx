@@ -227,7 +227,7 @@ const Contact = () => {
             {/* Map */}
             <div className="bg-background rounded-2xl border border-border overflow-hidden h-[300px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.1234567890123!2d-74.12345678901234!3d4.7234567890123456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwNDMnMjQuNCJOIDc0wrAwNyczOC40Ilc!5e0!3m2!1ses!2sco!4v1234567890123"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d994.044529539651!2d-74.09114952436782!3d4.739093535455768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f84f066b6de7f%3A0xbeb4501d00d25e7e!2zQ3JhLiA5NiAjIDEzOS0yNSwgU3ViYSwgQm9nb3TDoSwgRC5DLiwgQm9nb3TDoSwgQm9nb3TDoSwgRC5DLg!5e0!3m2!1sen!2sco!4v1769894973495!5m2!1sen!2sco"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
