@@ -11,20 +11,20 @@ const clientTypes = [
 
 const testimonials = [
   {
-    text: "Excelente calidad y cumplimiento. La cocina de nuestro restaurante quedó perfecta. Totalmente recomendados.",
-    author: "Carlos Martínez",
-    role: "Restaurante El Buen Sabor",
+    text: "Excelente calidad y cumplimiento. La linea de buffet de nuestro restaurante quedó perfecto. Totalmente recomendados.",
+    author: "Alexandra Lopez",
+    role: "Restaurante Empanarrita",
     rating: 5
   },
   {
     text: "Trabajamos con ellos para equipar el laboratorio del colegio. Profesionales, puntuales y con excelentes acabados.",
-    author: "María Fernanda López",
-    role: "Colegio San José",
+    author: "Olga",
+    role: "Colegio Gimnasio Campestre",
     rating: 5
   },
   {
     text: "Las barandas de nuestra casa quedaron espectaculares. El equipo fue muy atento a cada detalle que pedimos.",
-    author: "Andrés Rodríguez",
+    author: "Eduardo Luna",
     role: "Cliente Residencial",
     rating: 5
   },

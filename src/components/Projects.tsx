@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { X } from "lucide-react";
 import project1 from "@/assets/project-1.jpg";
+import kitchen from "@/assets/cocina-completa.jpg";
 import project2 from "@/assets/project-2.jpg";
 import project3 from "@/assets/project-3.jpg";
 import project4 from "@/assets/project-4.jpg";
@@ -9,16 +10,16 @@ import project6 from "@/assets/project-6.jpg";
 
 const projects = [
   {
-    image: project1,
+    image: kitchen,
     title: "Cocina Industrial Completa",
     category: "Restaurante",
     description: "Instalación completa de cocina industrial con mesones, estanterías y sistemas de almacenamiento."
   },
   {
     image: project2,
-    title: "Baño Moderno Residencial",
+    title: "Baño Moderno Industrial y Residencial",
     category: "Hogar",
-    description: "Lavamanos y mobiliario de baño en acero inoxidable para residencia de alto nivel."
+    description: "Lavamanos y mobiliario de baño en acero inoxidable para residencia y empresas de alto nivel."
   },
   {
     image: project3,

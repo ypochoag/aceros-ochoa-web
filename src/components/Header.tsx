@@ -39,10 +39,10 @@ const Header = () => {
           e.preventDefault();
           scrollToSection("#inicio");
         }} className="flex items-center gap-3">
-            <img alt="Logo Industrias Aceros Ochoa Guerrero" className="h-12 md:h-14 w-auto" src="/lovable-uploads/e10296c2-873a-4a84-8f2c-8e72018dcb5c.jpg" />
+            <img alt="Logo Industrias Acero Ochoa Guerrero" className="h-12 md:h-14 w-auto" src="/lovable-uploads/logo.png" />
             <div className="flex flex-col">
               <span className="font-heading font-bold text-lg md:text-xl text-foreground leading-tight">
-                INDUSTRIAS ACEROS
+                INDUSTRIAS ACERO
               </span>
               <span className="font-heading font-semibold text-sm text-primary leading-tight">
                 OCHOA GUERRERO

@@ -206,7 +206,7 @@ const Contact = () => {
               </h4>
               <div className="flex gap-4">
                 <a 
-                  href="https://www.facebook.com" 
+                  href="https://www.facebook.com/profile.php?id=100084849407213" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center hover:bg-primary group transition-colors"
@@ -214,7 +214,7 @@ const Contact = () => {
                   <Facebook className="w-5 h-5 text-primary group-hover:text-primary-foreground transition-colors" />
                 </a>
                 <a 
-                  href="https://www.instagram.com" 
+                  href="https://www.instagram.com/industrias_aceros_ochoa_/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center hover:bg-primary group transition-colors"
@@ -234,7 +234,7 @@ const Contact = () => {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Ubicación de INDUSTRIAS ACEROS OCHOA GUERRERO"
+                title="Ubicación de INDUSTRIAS ACERO OCHOA GUERRERO"
               />
             </div>
           </div>

@@ -20,7 +20,7 @@ const About = () => {
             19 Años Construyendo Confianza
           </h2>
           <p className="text-muted-foreground max-w-3xl mx-auto text-lg">
-            Desde 2007, INDUSTRIAS ACEROS OCHOA GUERRERO S.A.S. ha sido sinónimo de calidad y 
+            Desde 2007, INDUSTRIAS ACERO OCHOA GUERRERO S.A.S. ha sido sinónimo de calidad y 
             excelencia en la fabricación de productos en acero inoxidable en Bogotá, Colombia.
           </p>
         </div>

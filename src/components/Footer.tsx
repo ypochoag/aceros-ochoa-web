@@ -17,7 +17,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="mb-6">
-              <h3 className="font-heading font-bold text-xl mb-1">INDUSTRIAS ACEROS</h3>
+              <h3 className="font-heading font-bold text-xl mb-1">INDUSTRIAS ACERO</h3>
               <span className="text-primary font-semibold">OCHOA GUERRERO S.A.S.</span>
             </div>
             <p className="text-primary-foreground/70 mb-6 max-w-md leading-relaxed">
@@ -109,7 +109,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-primary-foreground/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-primary-foreground/50 text-center md:text-left">
-            © {currentYear} INDUSTRIAS ACEROS OCHOA GUERRERO S.A.S. Todos los derechos reservados.
+            © {currentYear} INDUSTRIAS ACERO OCHOA GUERRERO S.A.S. Todos los derechos reservados.
           </p>
           <p className="text-sm text-primary-foreground/50">
             Bogotá D.C., Cundinamarca, Colombia
