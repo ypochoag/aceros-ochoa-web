@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Menu, X, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import logo from "@/assets/logo.png";
 const navLinks = [{
   name: "Inicio",
   href: "#inicio"
@@ -39,7 +40,7 @@ const Header = () => {
           e.preventDefault();
           scrollToSection("#inicio");
         }} className="flex items-center gap-3">
-            <img alt="Logo Industrias Acero Ochoa Guerrero" className="h-12 md:h-14 w-auto" src="/lovable-uploads/logo.png" />
+            <img alt="Logo Industrias Acero Ochoa Guerrero" className="h-12 md:h-14 w-auto" src={logo} />
             <div className="flex flex-col">
               <span className="font-heading font-bold text-lg md:text-xl text-foreground leading-tight">
                 INDUSTRIAS ACERO
